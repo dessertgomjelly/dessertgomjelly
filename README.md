@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=@dessert_gomjelly&animation=blink&fontColor=000000&fontSize=60" />
     </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessertgomjelly&layout=compact)](https://github.com/dessertgomjelly/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dessertgomjelly&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessertgomjelly&layout=compact)](https://github.com/dessertgomjelly/github-readme-stats)                        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dessertgomjelly&show_icons=true&theme=dark)
 
 
 <h3 align="center">🌈 Follow Me </h3>
