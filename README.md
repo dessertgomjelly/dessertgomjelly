@@ -13,7 +13,7 @@
     </div>
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <h3 align="center">🌈 Follow Me </h3>
 <p align="center">
@@ -24,3 +24,4 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdessertgomjelly&count_bg=%233D4EC8&title_bg=%23555555&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
