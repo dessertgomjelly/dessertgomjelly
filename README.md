@@ -2,3 +2,4 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=@dessert_gomjelly&animation=blink&fontColor=000000&fontSize=60" />
     </div>
     
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdessertgomjelly&count_bg=%233D4EC8&title_bg=%23555555&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
