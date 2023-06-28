@@ -2,8 +2,14 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=@dessert_gomjelly&animation=blink&fontColor=000000&fontSize=60" />
     </div>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dessertgomjelly&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessertgomjelly&layout=compact)](https://github.com/dessertgomjelly/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=dessertgomjelly&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
+    </div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessertgomjelly&layout=compact&theme=dark" alt="Top Langs" />
+    </div>
+</div>
 
 <h3 align="center">🌈 Follow Me </h3>
 <p align="center">
