@@ -5,8 +5,9 @@
 <div style="display: flex; justify-content: space-between;">
     <div style="align-self: flex-start;">
         <img src="https://github-readme-stats.vercel.app/api?username=dessertgomjelly&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
-    </div>
     
+
+</div>
     <div style="align-self: flex-end;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessertgomjelly&layout=compact&theme=dark" alt="Top Langs" />
     </div>
