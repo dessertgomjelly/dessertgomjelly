@@ -1,13 +1,18 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=👋🏻%20Hello%20World,%20I'm%20Sung%20Joon%20Moon%20&animation=twinkling&fontColor=000000&fontSize=40" />
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=👋🏻%20Hello%20World,%20I'm%20Joon%20&animation=twinkling&fontColor=#282d33&fontSize=35" style="border: 1px solid #d8dee4;" />
+</div>
+
 </div>
 <div style="text-align: left;"> 
-<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발자를 꿈꾸고 있습니다. </h3>  
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  " 📚 Striving to become a developer."</h2>  
+<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Studying at Sangmyung University with a major in convergence electronics & computer science. </h4>  
+<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Interested in developing data science, AI, and backend.</h4>  
+
+
+
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-</div>
-<div align=left><h2>🛠️ Things I code with
-    </h2></div> 
-<div align=left> 
+<div align=left><h2>🛠️ Things I code with</h2></div> 
+<div align=left>
 <img src="https://img.shields.io/badge/OpenJDK-437291?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
