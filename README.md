@@ -1,12 +1,12 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=👋🏻%20Hello%20World,%20I'm%20Joon%20&animation=twinkling&fontColor=#282d33&fontSize=35" style="border: 1px solid #d8dee4;" />
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=👋🏻%20Hello%20World,%20I'm%20Sung%20Joon%20Moon%20&animation=twinkling&fontColor=000000&fontSize=35" 
 </div>
 
 </div>
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  " 📚 Striving to become a developer."</h2>  
 <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Studying at Sangmyung University with a major in convergence electronics & computer science. </h4>  
-<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Interested in developing data science, AI, and backend.</h4>  
+<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Interested in data science, AI, and back-end engineering.</h4>  
 
 
 
