@@ -7,7 +7,8 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  " 📚 Striving to become a developer."</h2>  
 <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Studying at Sangmyung University with a major in convergence electronics & computer science. </h4>  
 <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Interested in data science, AI, and back-end engineering.</h4>  
-
+<br>
+<br>
 
 
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
@@ -24,7 +25,21 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<br>
+<br>
 
+    
+<div align=left><h2> 📽️ My Engineering Blog</h2></div> 
+<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
+    
+[LG Aimers: AI전문가과정](https://dessertgomjelly.github.io/categories/#lg-aimers)</h4>  
+<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
+    
+[알고리즘으로 단단해지기](https://dessertgomjelly.github.io/categories/#algorithm)</h4>  
+<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
+    
+["김영한의 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술" 복습 노트](https://dessertgomjelly.github.io/categories/#spring)</h4>
+<br>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
 <div align="left">
