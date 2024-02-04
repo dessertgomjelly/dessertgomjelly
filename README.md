@@ -6,7 +6,7 @@
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  " 📚 Striving to become a developer."</h2>  
 <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Studying at Sangmyung University with a major in convergence electronics & computer science. </h4>  
-<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Interested in data science, AI, and back-end engineering.</h4>  
+<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Interested in Data Science, AI, and SW Engineering.</h4>  
 <br>
 <br>
 
