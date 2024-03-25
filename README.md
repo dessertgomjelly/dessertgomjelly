@@ -42,9 +42,9 @@
 <br>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dessertgomjelly&show_icons=true&theme=graywhite" alt="Anurag's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessertgomjelly&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" />
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msj1291)](https://solved.ac/msj1291/)
+<img src="https://github-readme-stats.vercel.app/api?username=dessertgomjelly&show_icons=true&theme=graywhite" alt="Anurag's GitHub stats" />
 </div>
 
  
